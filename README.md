@@ -2,7 +2,7 @@
 A PowerShell module to display a Linux-like calendar in the console.
 
 ## Preview
-![Preview](Screenshots/cal2022.png)
+![Preview](Images/cal2022.png)
 
 ## Installation
 
