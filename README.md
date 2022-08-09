@@ -19,7 +19,7 @@ $ Show-Calendar [[-Year] <Int32>] [[-Month] <String>] [<CommonParameters>]
 ```
 or simply:
 ```pwsh
-$ cal -y <yyyy> -m <month name> 
+$ cal -y <yyyy> -m <month name(first letter should be capitalized)> 
 ```
 ### Examples
 > Displaying the 1997 calendar from January to December
