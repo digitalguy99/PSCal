@@ -1,5 +1,5 @@
 # PSCal
-A PowerShell module to display a linux like calendar in the console.
+A PowerShell module to display a Linux-like calendar in the console.
 
 ## Preview
 ![Preview](Screenshots/cal2022.png)
@@ -22,6 +22,10 @@ or simply:
 $ cal -y <yyyy> -m <month name(first letter should be capitalized)> 
 ```
 ### Examples
+> Displaying calendar of current date
+```pwsh
+$ cal
+```
 > Displaying the 1997 calendar from January to December
 ```pwsh 
 $ cal -y 1997
