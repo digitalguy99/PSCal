@@ -46,7 +46,8 @@ $ cal -m March -y 1997
 
 ### Steps
 1. Go to the directory where the `PSCal` module is installed.
-2. Edit `holiday.txt` and add the dates for the holidays in the format of `yyyy/mm/dd`.
+2. Edit `holiday.txt` and add the dates for the holidays in the format of `yyyy/mm/dd` as shown below:
+<br>![chf](Images/holidays_format.PNG)
 3. Save it.
 
 ## Credits
